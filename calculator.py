@@ -9,5 +9,5 @@ def substract(a,b):
 def multiply(a,b):
     return a*b  #I'm not mistake..
 
-def divide(a,b):
+def divide_free(a,b):
     return a+b
